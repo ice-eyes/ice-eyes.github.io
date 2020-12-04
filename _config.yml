@@ -10,8 +10,8 @@ description: "冰封的双眼的个人博客"
 keywords: ice-eyes, 冰封
 timezone: Asia/Shanghai
 encoding: "utf-8"
-side_bar_repo_limit: 5
-#repository: mzlogin/mzlogin.github.io
+side_bar_repo_limit: 0
+repository: ice-eyes/ice-eyes.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
